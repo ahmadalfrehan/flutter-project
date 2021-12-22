@@ -156,8 +156,8 @@ class _MyProfileState extends State<MyProfile> {
                           Icons.school),
                       Detalis(
                           " Studied ITE at Aleppo of University", Icons.school),
-                      //Detalis("Went toثانوية جاسم الرسمية ", Icons.school),
-                      //Detalis("Went toثانوية نوى الخاصة ", Icons.school),
+                      Detalis("Went toثانوية جاسم الرسمية ", Icons.school),
+                      Detalis("Went toثانوية نوى الخاصة ", Icons.school),
                       Detalis("Lives in Dar`a", Icons.home_work_rounded),
                       Detalis("From Dar`a", Icons.fmd_good_sharp),
                       Detalis("Single", Icons.favorite),
